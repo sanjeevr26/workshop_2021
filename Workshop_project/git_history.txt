@@ -1,3 +1,0 @@
-Local VCS
-Central VCS
-Distributed VCS
