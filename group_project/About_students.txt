@@ -8,3 +8,8 @@ I love playing cricket.
 Dan:
 I work as Professor at SMU
 I love talking to students
+
+Kannagi:
+I work for IBM
+I love talking to people.
+
