@@ -4,3 +4,7 @@ Each student will write two lines about themselves
 Sanjeevi:
 I work as Data Scientist at HomeExcept
 I love playing cricket.
+
+Dan:
+I work as Professor at SMU
+I love talking to students
